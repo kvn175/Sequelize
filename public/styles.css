@@ -1,1 +1,11 @@
+.title {
+    background-color:  #808080;
+    color: white;
+    min-width: 960px;
+}
 
+html {
+    background-color: #555555;
+    color: blue;
+    min-width: 960px;
+}
