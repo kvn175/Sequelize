@@ -5,8 +5,20 @@
     text-align: center;
 }
 
-html {
+.list-header {
+    font-weight: 600;
+    font-size: 1.25rem;
+}
+
+.list-item{
+    border-radius: 4px;
+    color: rgba(25, 25, 25, 90);
+    background: #00d1b2;
+    padding: 5px;
+}
+
+/* html {
     background-color: #555555;
     color: blue;
     min-width: 960px;
-}
+} */
